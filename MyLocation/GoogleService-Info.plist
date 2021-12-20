@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1005772135057-d7lr6l726kbbar52dhrah3t4l2imojrl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1005772135057-d7lr6l726kbbar52dhrah3t4l2imojrl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBspswwtlQU8yvj159ASs7gj8FIol3h-2M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1005772135057</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>JonnyD.MyLocation</string>
+	<key>PROJECT_ID</key>
+	<string>sps-bus-tracker</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sps-bus-tracker.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1005772135057:ios:ec4d3ef18081c7527afd30</string>
+	<key>DATABASE_URL</key>
+	<string>https://sps-bus-tracker-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
